@@ -1,0 +1,737 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sta",
+				"statsTooltipCvs"
+			],
+			[
+				"bacc",
+				"backBufferCvs"
+			],
+			[
+				"back",
+				"backBufferCtx"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"debr",
+				"debrisCounter"
+			],
+			[
+				"get",
+				"getTargetsInRadius"
+			],
+			[
+				"Trave",
+				"TravelMethod"
+			],
+			[
+				"cal",
+				"calcTrajectory"
+			],
+			[
+				"cool",
+				"cooldownTimer"
+			],
+			[
+				"pr",
+				"projectile"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lib/game/main.js",
+			"settings":
+			{
+				"buffer_size": 3365,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/game/entities/player.js",
+			"settings":
+			{
+				"buffer_size": 22147,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/game/abilities/grenade-launcher.js",
+			"settings":
+			{
+				"buffer_size": 1050,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/game/entities/projectile-grenade.js",
+			"settings":
+			{
+				"buffer_size": 899,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/game/abilities/ability-shoot-extended.js",
+			"settings":
+			{
+				"buffer_size": 4523,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/config-user.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/projectile-laser.js",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/css/site.less",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/css/ui.less",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/index.html",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/todo.txt",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/player.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/destructable-grate-nocollide.js",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/css/tags.less",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/css/mixins.less",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/main.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/trigger.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/destructable.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/levels/tutorial/tutorial-5.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/friction-resume.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/character.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/friction-suspend.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/crouch-end.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/suspend-friction.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/destructable-door-left.js",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/css/variables.less",
+		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/css/ui.less",
+		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/css/tags.less",
+		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/css/variables.less",
+		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/css/site.less",
+		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/index.html",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/sword.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abilities/melee.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abilities/ability.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abilities/ability-shoot.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/ability-shoot-extended.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/player.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/laser-gun.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/grenade-launcher.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/core/entity.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/projectile-grenade.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/projectile.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/particle.js",
+		"/C/Users/Jordan/AppData/Local/Temp/7zO9105.tmp/config-user.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/crouch-start.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/levels/tutorial/tutorial-2.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/creature.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/conversation.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/levelchange.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/destructable-grate.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/destructable-collide.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/destructable-damage.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/explosion.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/CrouchEnd",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/levelchange-random.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/core/camera.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/core/camera-extended.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/core/game.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/levels/tutorial/tutorial-0.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/levels/tutorial/0.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/bubble.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/checkpoint-start.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/level-change-random.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/levels/title.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/levels/level-0.js",
+		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/js/site.js",
+		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/css/mixins.less",
+		"/C/Users/Jordan/AppData/Local/Temp/7zO324.tmp/door-right.js",
+		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/css/responsive.less",
+		"/C/Users/Jordan/AppData/Local/Temp/7zOAF4.tmp/options-useBothWheelAxes.html",
+		"/C/Users/Jordan/AppData/Local/Temp/7zO2003.tmp/options-wheelPropagation.html",
+		"/C/Users/Jordan/AppData/Local/Temp/7zO24E.tmp/options-default.html",
+		"/C/Users/Jordan/AppData/Local/Temp/7zOEFE3.tmp/options-default.html",
+		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/css/font-awesome.min.css",
+		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/css/site.css",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/levels/side-scrolling.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/index.html",
+		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/app.js",
+		"/C/Users/Jordan/Documents/GitHub/WizBiz/css/app.css",
+		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/models/plant.js",
+		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/views/garden.js",
+		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/data/plants.js",
+		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/views/plant.js",
+		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/views/modal.js",
+		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/views/seed-shop.js",
+		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/views/ui.js",
+		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/models/seed.js",
+		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/data/seeds.js",
+		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/views/main-menu.js",
+		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/views/shack.js",
+		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/views/cart.js",
+		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/app/seed-shop.js",
+		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/app/main-menu.js",
+		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/app/seeds.js",
+		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/app/cart.js",
+		"/C/Users/Jordan/Documents/GitHub/WizBiz/css/reset.css",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockCrops.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/magicmod/MagicMod.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/magicmod/BlockLichen.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/material/Material.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/Block.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockVine.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockFlower.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockMushroom.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockFlowing.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraftforge/common/IShearable.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockClay.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockLeaves.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockCocoa.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockCactus.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockLog.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockDirectional.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/magicmod/GenericBlock.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/item/ItemDye.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/creativetab/CreativeTabs.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/magicmod/GenericItem.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockGlass.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/magicmod/ClientProxy.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/com.jordanranson.magicmod/CommonProxy.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/com.jordanranson.magicmod/ClientProxy.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/com.jordanranson.magicmod/GenericBlock.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/com.jordanranson.magicmod/GenericItem.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/com.jordanranson.magicmod/MagicMod.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/item/Item.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/cpw/mods/fml/client/CustomModLoadingErrorDisplayException.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/cpw/mods/fml/common/SidedProxy.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/tileentity/TileEntityBeacon.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/potion/Potion.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/item/ItemPotion.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/potion/PotionEffect.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/entity/monster/EntityGolem.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/entity/passive/EntityWolf.java",
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/entity/monster/EntityIronGolem.java"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"this.active",
+			"ability",
+			"input-size-small",
+			"last-of-type",
+			"last-child",
+			"strong",
+			"box-shadow:",
+			"14px",
+			"reply",
+			"asset-tags",
+			"<ul",
+			"strong",
+			"i {",
+			"<i class=\"fa fa-check-circle\"></i><strong>Firstname Lastname</strong>",
+			"strong",
+			"asset",
+			"selected",
+			"background: rgba",
+			"0.3",
+			"0.7",
+			"asset-time",
+			"timestamp",
+			"i {",
+			"compact",
+			"selected",
+			".content",
+			"padding",
+			"ab.",
+			"realSlopeSticking",
+			"real",
+			"slope",
+			"realFric",
+			"padding: 20px",
+			"border-top: solid 1px @white",
+			"timest",
+			"7px",
+			"25px",
+			"tag",
+			"selected",
+			"rgba(0,0,0,0.15)",
+			"card-shadow",
+			"selected",
+			"lighten(@accent,10%)",
+			"lighten(@",
+			".selected",
+			"inner-shadow",
+			"well",
+			"active",
+			"</hgroup",
+			"<hgroup",
+			"hgroup",
+			"source",
+			"em",
+			"<article class=\"asset\">",
+			"				</article>",
+			"</article>",
+			"<article class=\"asset ",
+			"asset",
+			"article",
+			"this.assert",
+			"hasvalidtarget",
+			"target",
+			"cast(",
+			"cast",
+			"cast()",
+			"anim",
+			"anims",
+			"anim",
+			"anims",
+			"meleeX",
+			"gren",
+			"conso",
+			"facing",
+			"offsetX",
+			"activate:",
+			"activate",
+			"offset",
+			"execute",
+			"execute:",
+			"castStart",
+			"execute",
+			"castStart",
+			"activate.apply",
+			"activateTry",
+			"this.activateTry",
+			"activateSetup",
+			"execute",
+			"tap",
+			"input",
+			"abilities",
+			"jump",
+			"ability",
+			"melee",
+			"checkpoint",
+			"playerSpawn",
+			"Checkpoint",
+			"= 'left",
+			"facing.x",
+			"facing",
+			"moveToUp",
+			"jumpPush",
+			"jump",
+			"moveTo",
+			"this._keepStuck",
+			"console",
+			"jump",
+			"jumpLength",
+			"jump",
+			"console",
+			"jump",
+			"activate",
+			"once",
+			"crouching",
+			"camera",
+			"_tw",
+			"player",
+			"maxVel",
+			"this.speed",
+			"realSpeed",
+			"real",
+			"crouching",
+			"screen.x",
+			"position",
+			"camera",
+			"canera",
+			"camera",
+			"crouching",
+			"size"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<strong><i class=\"fa fa-check-circle\"></i> Firstname Lastname</strong>",
+			"\n<strong><i class=\"fa fa-check-circle\"></i> Firstname Lastname</strong>",
+			"@card-shadow",
+			"selected",
+			"</div",
+			"<div class=\"info\"",
+			"div class=\"info\"",
+			"<div class=\"asset\">",
+			"\n				</div>",
+			"\n</div>",
+			"<div class=\"asset ",
+			"content-list",
+			".content-container",
+			".content-wrapper",
+			"'",
+			"@duration-medium",
+			"@ease-in-out",
+			"@accent",
+			"967adc",
+			"",
+			"body:active, body.hide-meta",
+			"",
+			"meta2",
+			"meta",
+			"com.jordanranson.magicmod",
+			"ctx",
+			"glowAlpha",
+			"drawDragUi",
+			"longpressCanOpen",
+			"longpressMenu",
+			"@fast",
+			"@slow",
+			"@speed1",
+			"",
+			"ig.game.mouse",
+			"pos",
+			"0",
+			"",
+			"ig.system.context.",
+			"ig.system.context",
+			"ig.system.context.",
+			"ig.game.mouse",
+			"mouse.x",
+			"mouse.y",
+			"ig.game.mousex",
+			"ig.game.mousey",
+			"posy",
+			"posx",
+			"distCenter",
+			"threadCurAlpha",
+			"ts-6",
+			"ts+6",
+			"8",
+			"ts",
+			"	",
+			"0.3",
+			"1",
+			"document",
+			" 25",
+			" 30",
+			"+21",
+			"48",
+			"+22",
+			"48",
+			"",
+			"50 );",
+			" 80 )",
+			"80,",
+			" 25 )",
+			"25 )",
+			" 25,",
+			"25,",
+			"50,",
+			"80+25",
+			"80",
+			"__",
+			"this.three.",
+			"this.canMove()",
+			"ig.game._rscreen",
+			"focusPos",
+			"'rgba(0,0,0,0.7)'",
+			"'rgba(0,238,34,0.7)'",
+			".canAttack( this.owner )",
+			"creeps",
+			"COSTS {%} COINS",
+			"this.modifier = new",
+			"owner",
+			"'",
+			"followEntity",
+			"timer",
+			"this.score",
+			"this.defn",
+			"defn: ProjectileDefault",
+			"0",
+			"// url",
+			"selectedSkillIndex",
+			"selectedGroupIndex",
+			"[ 0 ], // sequence",
+			" x: -165",
+			" x: -168",
+			" x: -158",
+			"[ 0, 1, 2, 3 ], // sequence",
+			"1 // speed",
+			"[ 0 ], // sequence",
+			"0 // speed",
+			"top",
+			"ig.$new('canvas')",
+			"'",
+			"this.slices",
+			"'",
+			"basicAttack",
+			"execute(",
+			"condition",
+			"skills",
+			"data",
+			"this.execute",
+			"executing",
+			"execute: function"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lib/game/main.js",
+					"settings":
+					{
+						"buffer_size": 3365,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2764,
+								2775
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1200.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/game/entities/player.js",
+					"settings":
+					{
+						"buffer_size": 22147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14144,
+								14144
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9006.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/game/abilities/grenade-launcher.js",
+					"settings":
+					{
+						"buffer_size": 1050,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								589,
+								601
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lib/game/entities/projectile-grenade.js",
+					"settings":
+					{
+						"buffer_size": 899,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								402,
+								402
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "lib/game/abilities/ability-shoot-extended.js",
+					"settings":
+					{
+						"buffer_size": 4523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								319,
+								319
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 163.0,
+	"status_bar_visible": true
+}
