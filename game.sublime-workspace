@@ -59,32 +59,56 @@
 			"file": "lib/game/entities/player.js",
 			"settings":
 			{
-				"buffer_size": 22147,
+				"buffer_size": 21748,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "lib/game/abilities/grenade-launcher.js",
+			"file": "lib/game/abilities/sword.js",
 			"settings":
 			{
-				"buffer_size": 1050,
+				"buffer_size": 975,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "lib/game/entities/projectile-grenade.js",
+			"file": "lib/game/entities/tutorial-jump.js",
 			"settings":
 			{
-				"buffer_size": 899,
+				"buffer_size": 843,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "lib/game/abilities/ability-shoot-extended.js",
+			"file": "lib/game/entities/tutorial-spam.js",
 			"settings":
 			{
-				"buffer_size": 4523,
-				"line_ending": "Windows"
+				"buffer_size": 710,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/game/entities/tutorial-move.js",
+			"settings":
+			{
+				"buffer_size": 1066,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/game/entities/projectile-slash.js",
+			"settings":
+			{
+				"buffer_size": 1010,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/game/abilities/energy-rifle.js",
+			"settings":
+			{
+				"buffer_size": 1052,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -124,6 +148,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/tutorial-climb.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/ability-shoot-extended.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/config-user.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/projectile-laser.js",
 		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/css/site.less",
@@ -154,7 +180,6 @@
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abilities/melee.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abilities/ability.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abilities/ability-shoot.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/ability-shoot-extended.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/player.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/laser-gun.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/grenade-launcher.js",
@@ -250,8 +275,7 @@
 		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/item/ItemPotion.java",
 		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/potion/PotionEffect.java",
 		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/entity/monster/EntityGolem.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/entity/passive/EntityWolf.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/entity/monster/EntityIronGolem.java"
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/entity/passive/EntityWolf.java"
 	],
 	"find":
 	{
@@ -269,6 +293,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ui",
 			"this.active",
 			"ability",
 			"input-size-small",
@@ -395,8 +420,7 @@
 			"camera",
 			"canera",
 			"camera",
-			"crouching",
-			"size"
+			"crouching"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -532,7 +556,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -547,8 +571,8 @@
 						"selection":
 						[
 							[
-								2764,
-								2775
+								2364,
+								2364
 							]
 						],
 						"settings":
@@ -558,7 +582,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1200.0,
+						"translation.y": 1740.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -568,15 +592,15 @@
 					"file": "lib/game/entities/player.js",
 					"settings":
 					{
-						"buffer_size": 22147,
+						"buffer_size": 21748,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								14144,
-								14144
+								4770,
+								4770
 							]
 						],
 						"settings":
@@ -586,25 +610,25 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 9006.0,
+						"translation.y": 2700.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "lib/game/abilities/grenade-launcher.js",
+					"file": "lib/game/abilities/sword.js",
 					"settings":
 					{
-						"buffer_size": 1050,
+						"buffer_size": 975,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								589,
-								601
+								605,
+								605
 							]
 						],
 						"settings":
@@ -621,24 +645,25 @@
 				},
 				{
 					"buffer": 3,
-					"file": "lib/game/entities/projectile-grenade.js",
+					"file": "lib/game/entities/tutorial-jump.js",
 					"settings":
 					{
-						"buffer_size": 899,
+						"buffer_size": 843,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								402,
-								402
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -648,18 +673,74 @@
 				},
 				{
 					"buffer": 4,
-					"file": "lib/game/abilities/ability-shoot-extended.js",
+					"file": "lib/game/entities/tutorial-spam.js",
 					"settings":
 					{
-						"buffer_size": 4523,
+						"buffer_size": 710,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								319,
-								319
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "lib/game/entities/tutorial-move.js",
+					"settings":
+					{
+						"buffer_size": 1066,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "lib/game/entities/projectile-slash.js",
+					"settings":
+					{
+						"buffer_size": 1010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								850,
+								850
 							]
 						],
 						"settings":
@@ -668,7 +749,35 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "lib/game/abilities/energy-rifle.js",
+					"settings":
+					{
+						"buffer_size": 1052,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								784,
+								755
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
