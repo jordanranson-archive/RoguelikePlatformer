@@ -51,63 +51,55 @@
 			"file": "lib/game/main.js",
 			"settings":
 			{
-				"buffer_size": 3365,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "lib/game/entities/player.js",
-			"settings":
-			{
-				"buffer_size": 21748,
+				"buffer_size": 3580,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "lib/game/abilities/sword.js",
+			"file": "lib/game/entities/vent.js",
 			"settings":
 			{
-				"buffer_size": 975,
+				"buffer_size": 2882,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/game/entities/particle-fireball.js",
+			"settings":
+			{
+				"buffer_size": 615,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "lib/game/entities/tutorial-jump.js",
+			"file": "lib/game/entities/spawner-libraried.js",
 			"settings":
 			{
-				"buffer_size": 843,
+				"buffer_size": 988,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "lib/game/entities/tutorial-spam.js",
+			"file": "lib/plusplus/abstractities/spawner.js",
 			"settings":
 			{
-				"buffer_size": 710,
+				"buffer_size": 22848,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "lib/game/entities/tutorial-move.js",
+			"file": "lib/game/entities/particle-air.js",
 			"settings":
 			{
-				"buffer_size": 1066,
+				"buffer_size": 601,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "lib/game/entities/projectile-slash.js",
+			"file": "lib/game/entities/particle-color-random.js",
 			"settings":
 			{
-				"buffer_size": 1010,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "lib/game/abilities/energy-rifle.js",
-			"settings":
-			{
-				"buffer_size": 1052,
+				"buffer_size": 999,
 				"line_ending": "Unix"
 			}
 		}
@@ -148,6 +140,26 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/explosion-horizontal.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/particle-debris-door.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/player.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/player.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/spawner-fast.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/spawner.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/particle-fireball.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/gas-choking.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/pain.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/explosion.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/door.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/spawner-libraried.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/effect-electricity.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/door-left.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/sword.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/tutorial-jump.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/tutorial-spam.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/tutorial-move.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/energy-rifle.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/projectile-slash.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/tutorial-climb.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/ability-shoot-extended.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/config-user.js",
@@ -156,7 +168,6 @@
 		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/css/ui.less",
 		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/index.html",
 		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/todo.txt",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/player.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/destructable-grate-nocollide.js",
 		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/css/tags.less",
 		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/css/mixins.less",
@@ -176,11 +187,9 @@
 		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/css/variables.less",
 		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/css/site.less",
 		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/index.html",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/sword.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abilities/melee.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abilities/ability.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abilities/ability-shoot.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/player.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/laser-gun.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/grenade-launcher.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/core/entity.js",
@@ -196,7 +205,6 @@
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/destructable-grate.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/destructable-collide.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/destructable-damage.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/explosion.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/CrouchEnd",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/levelchange-random.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/core/camera.js",
@@ -259,27 +267,11 @@
 		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/magicmod/GenericBlock.java",
 		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/item/ItemDye.java",
 		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/creativetab/CreativeTabs.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/magicmod/GenericItem.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockGlass.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/magicmod/ClientProxy.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/com.jordanranson.magicmod/CommonProxy.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/com.jordanranson.magicmod/ClientProxy.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/com.jordanranson.magicmod/GenericBlock.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/com.jordanranson.magicmod/GenericItem.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/com.jordanranson.magicmod/MagicMod.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/item/Item.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/cpw/mods/fml/client/CustomModLoadingErrorDisplayException.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/cpw/mods/fml/common/SidedProxy.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/tileentity/TileEntityBeacon.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/potion/Potion.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/item/ItemPotion.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/potion/PotionEffect.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/entity/monster/EntityGolem.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/entity/passive/EntityWolf.java"
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/magicmod/GenericItem.java"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -293,6 +285,17 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"spawning",
+			"particle",
+			"activate",
+			"explodeTarget",
+			"poundOnce",
+			"_poundedOnce",
+			"pounding",
+			"poundInterval",
+			"poundTimer",
+			"poundDelay",
+			"collide",
 			"ui",
 			"this.active",
 			"ability",
@@ -409,18 +412,7 @@
 			"crouching",
 			"camera",
 			"_tw",
-			"player",
-			"maxVel",
-			"this.speed",
-			"realSpeed",
-			"real",
-			"crouching",
-			"screen.x",
-			"position",
-			"camera",
-			"canera",
-			"camera",
-			"crouching"
+			"player"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -428,6 +420,13 @@
 		"regex": false,
 		"replace_history":
 		[
+			"spawnerTarget",
+			"fireOnce",
+			"_firedOnce",
+			"firing",
+			"fireInterval",
+			"fireTimer",
+			"fireDelay",
 			"<strong><i class=\"fa fa-check-circle\"></i> Firstname Lastname</strong>",
 			"\n<strong><i class=\"fa fa-check-circle\"></i> Firstname Lastname</strong>",
 			"@card-shadow",
@@ -556,7 +555,7 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -564,15 +563,15 @@
 					"file": "lib/game/main.js",
 					"settings":
 					{
-						"buffer_size": 3365,
+						"buffer_size": 3580,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2364,
-								2364
+								536,
+								536
 							]
 						],
 						"settings":
@@ -582,25 +581,25 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1740.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "lib/game/entities/player.js",
+					"file": "lib/game/entities/vent.js",
 					"settings":
 					{
-						"buffer_size": 21748,
+						"buffer_size": 2882,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4770,
-								4770
+								2231,
+								2231
 							]
 						],
 						"settings":
@@ -610,25 +609,25 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2700.0,
+						"translation.y": 1091.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "lib/game/abilities/sword.js",
+					"file": "lib/game/entities/particle-fireball.js",
 					"settings":
 					{
-						"buffer_size": 975,
+						"buffer_size": 615,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								605,
-								605
+								577,
+								577
 							]
 						],
 						"settings":
@@ -645,10 +644,10 @@
 				},
 				{
 					"buffer": 3,
-					"file": "lib/game/entities/tutorial-jump.js",
+					"file": "lib/game/entities/spawner-libraried.js",
 					"settings":
 					{
-						"buffer_size": 843,
+						"buffer_size": 988,
 						"regions":
 						{
 						},
@@ -673,18 +672,46 @@
 				},
 				{
 					"buffer": 4,
-					"file": "lib/game/entities/tutorial-spam.js",
+					"file": "lib/plusplus/abstractities/spawner.js",
 					"settings":
 					{
-						"buffer_size": 710,
+						"buffer_size": 22848,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								11792,
+								11624
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6939.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "lib/game/entities/particle-air.js",
+					"settings":
+					{
+						"buffer_size": 601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								428,
+								432
 							]
 						],
 						"settings":
@@ -700,74 +727,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "lib/game/entities/tutorial-move.js",
-					"settings":
-					{
-						"buffer_size": 1066,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 180.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
 					"buffer": 6,
-					"file": "lib/game/entities/projectile-slash.js",
+					"file": "lib/game/entities/particle-color-random.js",
 					"settings":
 					{
-						"buffer_size": 1010,
+						"buffer_size": 999,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								850,
-								850
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 360.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "lib/game/abilities/energy-rifle.js",
-					"settings":
-					{
-						"buffer_size": 1052,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								784,
-								755
+								592,
+								534
 							]
 						],
 						"settings":
@@ -777,7 +749,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 120.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
