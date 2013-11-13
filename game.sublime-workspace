@@ -51,56 +51,41 @@
 			"file": "lib/game/main.js",
 			"settings":
 			{
-				"buffer_size": 3580,
+				"buffer_size": 3620,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "lib/game/entities/vent.js",
+			"file": "lib/game/entities/player.js",
 			"settings":
 			{
-				"buffer_size": 2882,
+				"buffer_size": 23630,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "lib/game/entities/particle-fireball.js",
+			"file": "/C/Users/Jordan/Documents/GitHub/samapp.io/events/nx13/css/app.less",
 			"settings":
 			{
-				"buffer_size": 615,
-				"line_ending": "Unix"
+				"buffer_size": 12231,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "lib/game/entities/spawner-libraried.js",
+			"file": "/C/Users/Jordan/Documents/GitHub/samapp.io/events/nx13/.gitignore",
 			"settings":
 			{
-				"buffer_size": 988,
-				"line_ending": "Unix"
+				"buffer_size": 12,
+				"line_ending": "Windows",
+				"name": "node_modules"
 			}
 		},
 		{
-			"file": "lib/plusplus/abstractities/spawner.js",
+			"file": "/C/Users/Jordan/Documents/GitHub/samapp.io/events/nx13/index.html",
 			"settings":
 			{
-				"buffer_size": 22848,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "lib/game/entities/particle-air.js",
-			"settings":
-			{
-				"buffer_size": 601,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "lib/game/entities/particle-color-random.js",
-			"settings":
-			{
-				"buffer_size": 999,
-				"line_ending": "Unix"
+				"buffer_size": 5917,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -140,18 +125,27 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/.gitignore",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/config-user.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/vent.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/particle-air-right.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/particle-fireball.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/particle-air.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/vent-pain.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/vent-air.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/ventAir.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/spawner.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/spawner-libraried.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/particle-color-random.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/explosion-horizontal.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/particle-debris-door.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/player.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/player.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/spawner-fast.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/spawner.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/particle-fireball.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/gas-choking.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/pain.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/explosion.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/door.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/spawner-libraried.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/effect-electricity.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/door-left.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/sword.js",
@@ -162,7 +156,6 @@
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/projectile-slash.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/tutorial-climb.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/ability-shoot-extended.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/config-user.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/projectile-laser.js",
 		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/css/site.less",
 		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/css/ui.less",
@@ -259,15 +252,7 @@
 		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockFlowing.java",
 		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraftforge/common/IShearable.java",
 		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockClay.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockLeaves.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockCocoa.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockCactus.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockLog.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockDirectional.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/magicmod/GenericBlock.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/item/ItemDye.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/creativetab/CreativeTabs.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/magicmod/GenericItem.java"
+		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockLeaves.java"
 	],
 	"find":
 	{
@@ -285,6 +270,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"btn",
+			"crouch",
 			"spawning",
 			"particle",
 			"activate",
@@ -410,9 +397,7 @@
 			"activate",
 			"once",
 			"crouching",
-			"camera",
-			"_tw",
-			"player"
+			"camera"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -555,7 +540,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -563,15 +548,15 @@
 					"file": "lib/game/main.js",
 					"settings":
 					{
-						"buffer_size": 3580,
+						"buffer_size": 3620,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								536,
-								536
+								318,
+								318
 							]
 						],
 						"settings":
@@ -588,18 +573,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "lib/game/entities/vent.js",
+					"file": "lib/game/entities/player.js",
 					"settings":
 					{
-						"buffer_size": 2882,
+						"buffer_size": 23630,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2231,
-								2231
+								21540,
+								21540
 							]
 						],
 						"settings":
@@ -609,32 +594,58 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1091.0,
+						"translation.y": 3382.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "lib/game/entities/particle-fireball.js",
+					"file": "/C/Users/Jordan/Documents/GitHub/samapp.io/events/nx13/css/app.less",
 					"settings":
 					{
-						"buffer_size": 615,
+						"buffer_size": 12231,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								577,
-								577
+								7460,
+								7460
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 9182.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Jordan/Documents/GitHub/samapp.io/events/nx13/.gitignore",
+					"settings":
+					{
+						"buffer_size": 12,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								12
+							]
+						],
+						"settings":
+						{
+							"auto_name": "node_modules",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -643,11 +654,11 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "lib/game/entities/spawner-libraried.js",
+					"buffer": 4,
+					"file": "/C/Users/Jordan/Documents/GitHub/samapp.io/events/nx13/index.html",
 					"settings":
 					{
-						"buffer_size": 988,
+						"buffer_size": 5917,
 						"regions":
 						{
 						},
@@ -660,93 +671,8 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "lib/plusplus/abstractities/spawner.js",
-					"settings":
-					{
-						"buffer_size": 22848,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								11792,
-								11624
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 6939.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "lib/game/entities/particle-air.js",
-					"settings":
-					{
-						"buffer_size": 601,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								428,
-								432
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "lib/game/entities/particle-color-random.js",
-					"settings":
-					{
-						"buffer_size": 999,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								592,
-								534
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
