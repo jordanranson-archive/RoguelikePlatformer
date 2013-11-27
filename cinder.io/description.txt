@@ -1,0 +1,18 @@
+A prototype for a roguelike platformer/infinite dungeon crawler built with ImpactJS and Impact++.
+
+Controls:
+WASD - Movement, Space - Jump, Mouse - Aim/Attack
+
+Pre-Alpha Roadmap:
+- Basic player weapons implemented (sword and energy rifle)
+- Level hazards implemented
+- Test enemies
+- Test level
+
+Alpha Roadmap:
+- Secondary weapon effects
+- Random level generation
+- More enemies
+- Basic difficulty progression
+- Basic talent tree implemented
+- Saving and loading
