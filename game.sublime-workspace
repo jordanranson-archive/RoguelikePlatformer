@@ -48,43 +48,26 @@
 	"buffers":
 	[
 		{
-			"file": "lib/game/main.js",
+			"file": "iframe.html",
 			"settings":
 			{
-				"buffer_size": 3620,
+				"buffer_size": 700,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/cinder/cinderplusplus.js",
+			"settings":
+			{
+				"buffer_size": 2152,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "lib/game/entities/player.js",
+			"file": "lib/cinder/cinder.js",
 			"settings":
 			{
-				"buffer_size": 23630,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Jordan/Documents/GitHub/samapp.io/events/nx13/css/app.less",
-			"settings":
-			{
-				"buffer_size": 12231,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Jordan/Documents/GitHub/samapp.io/events/nx13/.gitignore",
-			"settings":
-			{
-				"buffer_size": 12,
-				"line_ending": "Windows",
-				"name": "node_modules"
-			}
-		},
-		{
-			"file": "/C/Users/Jordan/Documents/GitHub/samapp.io/events/nx13/index.html",
-			"settings":
-			{
-				"buffer_size": 5917,
+				"buffer_size": 2038,
 				"line_ending": "Windows"
 			}
 		}
@@ -125,13 +108,105 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/tools/bake.php",
+		"/C/Users/Jordan/Documents/GitHub/ImpactJS-Cinder/README.md",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/cinder/cinder.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/main.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/dist.html",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/cinder.io/dist.html",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/impact/debug/debug.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/cinder/cinderplusplus.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/debug/debug.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/impact/debug/entities-panel.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/core/game.js",
+		"/C/Users/Jordan/Documents/GitHub/TestApp/app/scripts/main.js",
+		"/C/Users/Jordan/Documents/GitHub/TestApp/app/scripts/models/pokemon.js",
+		"/C/Users/Jordan/Documents/GitHub/TestApp/app/index.html",
+		"/C/Users/Jordan/cinder.io/ImpactJS Test Game/game.yaml",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/production.html",
+		"/C/Users/Jordan/cinder.io/ImpactJS Test Game/index.html",
+		"/C/Users/Jordan/cinder.io/ImpactJS Test Game/game.min.js",
+		"/C/Users/Jordan/cinder.io/ImpactJS Test Game/backup/index.html",
+		"/C/Users/Jordan/cinder.io/ImpactJS Test Game/backup/game.yaml",
+		"/C/Users/Jordan/AppData/Local/Temp/7zODA84.tmp/index.html",
+		"/C/Users/Jordan/AppData/Local/Temp/7zEA8E4.tmp/main.html",
+		"/C/Users/Jordan/AppData/Local/Temp/7zE8F9D.tmp/index.html",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/index - Copy.html",
+		"/C/Users/Jordan/cinder.io/ImpactJS Test Game/New folder/game.yaml",
+		"/C/Users/Jordan/AppData/Local/Temp/7zO55D3.tmp/game.yaml",
+		"/C/Users/Jordan/AppData/Local/Temp/7zO1F41.tmp/CINDER-README",
+		"/C/Users/Jordan/AppData/Local/Temp/7zOF746.tmp/README",
+		"/C/Users/Jordan/cinder.io/ImpactJS Test Game/main.html",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/app/js/views/app.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/index.html",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/app/index.html",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/index.html",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/app/js/main.js",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/app/templates/layout.html",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/app/templates/ui/range.html",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/app/templates/ui/dropdown.html",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/app/templates/ui/radio.html",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/app/templates/ui/checkbox.html",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/app/templates/wires/asset.html",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/app/templates/wires/details/details.html",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/app/templates/ui/well.html",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/app/templates/wires/filters.html",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/app/templates/wires/wires.html",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/app/templates/ui/card.html",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/app/templates/header/header.html",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/app/templates/ui/accordion.html",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/app/js/router.js",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/app/js/events.js",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/app/js/lib/require/handlebars.js",
+		"/C/s/backboneboilerplate/js/main.js",
+		"/C/s/backboneboilerplate/js/lib/jquery/jquery-min.js",
+		"/C/s/backboneboilerplate/js/lib/underscore/underscore-min.js",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/app/js/views/loading.js",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/app/js/view-manager.js",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/app/js/boilerplate.js",
+		"/C/s/backboneboilerplate/index.html",
+		"/C/s/backboneboilerplate/js/views/header/menu.js",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/app/js/vm.js",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/js/site.js",
+		"/C/s/backboneboilerplate/js/libs/jquery/jquery-min.js",
+		"/C/s/backboneboilerplate/js/events.js",
+		"/C/s/backboneboilerplate/js/boilerplate.js",
+		"/C/s/backboneboilerplate/build/output/js/main.js",
+		"/C/s/backboneboilerplate/js/vm.js",
+		"/C/s/backboneboilerplate/js/router.js",
+		"/C/s/backboneboilerplate/js/views/app.js",
+		"/C/s/backboneboilerplate/build/output/index.html",
+		"/C/s/backboneboilerplate/templates/layout.html",
+		"/C/s/backboneboilerplate/.travis.yml",
+		"/C/s/backboneboilerplate/templates/home/main.html",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/projectile-falling-debris.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/spikes.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/projectile-fireball.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/player.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/character.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/vent-pain.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/spikes-right.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/particle-fireball.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/gas-poison.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/player.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/core/entity.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/projectile.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/trigger.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/pain.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/lava.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/particle.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/energy-rifle.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/destructable-damage.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/destructable.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/destructable-crate.js",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/events/nx13/css/app.less",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/events/nx13/.gitignore",
+		"/C/Users/Jordan/Documents/GitHub/samapp.io/events/nx13/index.html",
 		"/C/Users/Jordan/Documents/GitHub/samapp.io/.gitignore",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/config-user.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/vent.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/particle-air-right.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/particle-fireball.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/particle-air.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/vent-pain.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/vent-air.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/ventAir.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/spawner.js",
@@ -139,11 +214,8 @@
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/particle-color-random.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/explosion-horizontal.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/particle-debris-door.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/player.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/player.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/spawner-fast.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/gas-choking.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/pain.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/explosion.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/door.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/effect-electricity.js",
@@ -152,107 +224,18 @@
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/tutorial-jump.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/tutorial-spam.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/tutorial-move.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/energy-rifle.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/projectile-slash.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/tutorial-climb.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/ability-shoot-extended.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/projectile-laser.js",
 		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/css/site.less",
 		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/css/ui.less",
-		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/index.html",
 		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/todo.txt",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/destructable-grate-nocollide.js",
 		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/css/tags.less",
 		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/css/mixins.less",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/main.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/trigger.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/destructable.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/levels/tutorial/tutorial-5.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/friction-resume.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/character.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/friction-suspend.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/crouch-end.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/suspend-friction.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/destructable-door-left.js",
-		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/css/variables.less",
-		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/css/ui.less",
-		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/css/tags.less",
-		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/css/variables.less",
-		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/css/site.less",
-		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/index.html",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abilities/melee.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abilities/ability.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abilities/ability-shoot.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/laser-gun.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/grenade-launcher.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/core/entity.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/projectile-grenade.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/projectile.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/particle.js",
-		"/C/Users/Jordan/AppData/Local/Temp/7zO9105.tmp/config-user.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/crouch-start.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/levels/tutorial/tutorial-2.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/creature.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/conversation.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/levelchange.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/destructable-grate.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/destructable-collide.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/destructable-damage.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/CrouchEnd",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/levelchange-random.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/core/camera.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/core/camera-extended.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/core/game.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/levels/tutorial/tutorial-0.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/levels/tutorial/0.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/bubble.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/checkpoint-start.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/level-change-random.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/levels/title.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/levels/level-0.js",
-		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/js/site.js",
-		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/css/mixins.less",
-		"/C/Users/Jordan/AppData/Local/Temp/7zO324.tmp/door-right.js",
-		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/css/responsive.less",
-		"/C/Users/Jordan/AppData/Local/Temp/7zOAF4.tmp/options-useBothWheelAxes.html",
-		"/C/Users/Jordan/AppData/Local/Temp/7zO2003.tmp/options-wheelPropagation.html",
-		"/C/Users/Jordan/AppData/Local/Temp/7zO24E.tmp/options-default.html",
-		"/C/Users/Jordan/AppData/Local/Temp/7zOEFE3.tmp/options-default.html",
-		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/css/font-awesome.min.css",
-		"/C/Users/Jordan/Documents/GitHub/WebDesignExperiments/css/site.css",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/levels/side-scrolling.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/index.html",
-		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/app.js",
-		"/C/Users/Jordan/Documents/GitHub/WizBiz/css/app.css",
-		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/models/plant.js",
-		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/views/garden.js",
-		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/data/plants.js",
-		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/views/plant.js",
-		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/views/modal.js",
-		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/views/seed-shop.js",
-		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/views/ui.js",
-		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/models/seed.js",
-		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/data/seeds.js",
-		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/views/main-menu.js",
-		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/views/shack.js",
-		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/views/cart.js",
-		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/app/seed-shop.js",
-		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/app/main-menu.js",
-		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/app/seeds.js",
-		"/C/Users/Jordan/Documents/GitHub/WizBiz/js/app/cart.js",
-		"/C/Users/Jordan/Documents/GitHub/WizBiz/css/reset.css",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockCrops.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/magicmod/MagicMod.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/magicmod/BlockLichen.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/material/Material.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/Block.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockVine.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockFlower.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockMushroom.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockFlowing.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraftforge/common/IShearable.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockClay.java",
-		"/C/Users/Jordan/Documents/GitHub/MinecraftMagicMod/forge/mcp/src/minecraft/net/minecraft/block/BlockLeaves.java"
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/friction-resume.js"
 	],
 	"find":
 	{
@@ -270,6 +253,26 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"pause",
+			"Vm",
+			"lodash",
+			"rece",
+			"knockback",
+			"wallju",
+			"knockback",
+			"grounded",
+			"temporaryInvulnerabilityEnd",
+			"damageDelay",
+			"knockback",
+			"damageDelay",
+			"rec",
+			"rece",
+			"wallJump",
+			"PASSIVE",
+			"collides",
+			"collisionKills",
+			"collis",
+			"collid",
 			"btn",
 			"crouch",
 			"spawning",
@@ -377,27 +380,7 @@
 			"jump",
 			"ability",
 			"melee",
-			"checkpoint",
-			"playerSpawn",
-			"Checkpoint",
-			"= 'left",
-			"facing.x",
-			"facing",
-			"moveToUp",
-			"jumpPush",
-			"jump",
-			"moveTo",
-			"this._keepStuck",
-			"console",
-			"jump",
-			"jumpLength",
-			"jump",
-			"console",
-			"jump",
-			"activate",
-			"once",
-			"crouching",
-			"camera"
+			"checkpoint"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -405,6 +388,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"ViewManager",
 			"spawnerTarget",
 			"fireOnce",
 			"_firedOnce",
@@ -540,133 +524,23 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "lib/game/main.js",
+					"file": "iframe.html",
 					"settings":
 					{
-						"buffer_size": 3620,
+						"buffer_size": 700,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								318,
-								318
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "lib/game/entities/player.js",
-					"settings":
-					{
-						"buffer_size": 23630,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								21540,
-								21540
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3382.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Users/Jordan/Documents/GitHub/samapp.io/events/nx13/css/app.less",
-					"settings":
-					{
-						"buffer_size": 12231,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7460,
-								7460
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LESS/LESS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 9182.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/C/Users/Jordan/Documents/GitHub/samapp.io/events/nx13/.gitignore",
-					"settings":
-					{
-						"buffer_size": 12,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								12,
-								12
-							]
-						],
-						"settings":
-						{
-							"auto_name": "node_modules",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/C/Users/Jordan/Documents/GitHub/samapp.io/events/nx13/index.html",
-					"settings":
-					{
-						"buffer_size": 5917,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
+								597,
+								597
 							]
 						],
 						"settings":
@@ -676,6 +550,60 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/cinder/cinderplusplus.js",
+					"settings":
+					{
+						"buffer_size": 2152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2006,
+								2006
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 744.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/cinder/cinder.js",
+					"settings":
+					{
+						"buffer_size": 2038,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1911,
+								1911
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 780.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
