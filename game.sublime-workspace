@@ -47,30 +47,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "iframe.html",
-			"settings":
-			{
-				"buffer_size": 700,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "lib/cinder/cinderplusplus.js",
-			"settings":
-			{
-				"buffer_size": 2152,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "lib/cinder/cinder.js",
-			"settings":
-			{
-				"buffer_size": 2038,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -108,14 +84,26 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/main.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/player.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/levels/test/wall-jumping.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/levels/test/wallJumping.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/wall-jump.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/attack-primary.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/double-jump.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/attack-secondary.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/config-user.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/mimic-casted.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/sword.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/levels/test/movement.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/iframe.html",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/cinder/cinderplusplus.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/cinder/cinder.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/tools/bake.php",
 		"/C/Users/Jordan/Documents/GitHub/ImpactJS-Cinder/README.md",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/cinder/cinder.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/main.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/dist.html",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/cinder.io/dist.html",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/impact/debug/debug.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/cinder/cinderplusplus.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/debug/debug.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/impact/debug/entities-panel.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/core/game.js",
@@ -182,7 +170,6 @@
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/projectile-falling-debris.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/spikes.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/projectile-fireball.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/player.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/character.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/vent-pain.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/spikes-right.js",
@@ -203,7 +190,6 @@
 		"/C/Users/Jordan/Documents/GitHub/samapp.io/events/nx13/.gitignore",
 		"/C/Users/Jordan/Documents/GitHub/samapp.io/events/nx13/index.html",
 		"/C/Users/Jordan/Documents/GitHub/samapp.io/.gitignore",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/config-user.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/vent.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/particle-air-right.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/particle-air.js",
@@ -220,22 +206,12 @@
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/door.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/effect-electricity.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/door-left.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/sword.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/tutorial-jump.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/tutorial-spam.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/tutorial-move.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/projectile-slash.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/tutorial-climb.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/ability-shoot-extended.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/projectile-laser.js",
-		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/css/site.less",
-		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/css/ui.less",
-		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/todo.txt",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/destructable-grate-nocollide.js",
-		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/css/tags.less",
-		"/C/Users/Jordan/Documents/GitHub/samapp.io/ui kit/css/mixins.less",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/levels/tutorial/tutorial-5.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/friction-resume.js"
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/ability-shoot-extended.js"
 	],
 	"find":
 	{
@@ -253,6 +229,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"wallJump",
+			"primary",
 			"pause",
 			"Vm",
 			"lodash",
@@ -378,9 +356,7 @@
 			"input",
 			"abilities",
 			"jump",
-			"ability",
-			"melee",
-			"checkpoint"
+			"ability"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -524,90 +500,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "iframe.html",
-					"settings":
-					{
-						"buffer_size": 700,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								597,
-								597
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "lib/cinder/cinderplusplus.js",
-					"settings":
-					{
-						"buffer_size": 2152,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2006,
-								2006
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 744.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "lib/cinder/cinder.js",
-					"settings":
-					{
-						"buffer_size": 2038,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1911,
-								1911
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 780.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
