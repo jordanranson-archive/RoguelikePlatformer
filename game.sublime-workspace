@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"actvate",
+				"activateTimer"
+			],
+			[
 				"sta",
 				"statsTooltipCvs"
 			],
@@ -86,6 +90,23 @@
 	[
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/main.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/player.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/gas-poison.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/spawner-libraried.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/trigger-timer.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/trigger-enable-implement.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/gas-choking.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/gas-nauseous.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/trigger-projectile.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/trigger-valve.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/spawner.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/trigger-disable-spawner.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/trigger.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/projectile.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/destructable-damage.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/core/entity.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/piston.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/destructable.js",
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/character.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/levels/test/wall-jumping.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/levels/test/wallJumping.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/wall-jump.js",
@@ -170,21 +191,14 @@
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/projectile-falling-debris.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/spikes.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/projectile-fireball.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/character.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/vent-pain.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/spikes-right.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/particle-fireball.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/gas-poison.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/player.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/core/entity.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/projectile.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/trigger.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/pain.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/lava.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/particle.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/energy-rifle.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/destructable-damage.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/destructable.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/destructable-crate.js",
 		"/C/Users/Jordan/Documents/GitHub/samapp.io/events/nx13/css/app.less",
 		"/C/Users/Jordan/Documents/GitHub/samapp.io/events/nx13/.gitignore",
@@ -195,23 +209,13 @@
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/particle-air.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/vent-air.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/ventAir.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/spawner.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/spawner-libraried.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/particle-color-random.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/explosion-horizontal.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/particle-debris-door.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/spawner-fast.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/gas-choking.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/explosion.js",
 		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/abstractities/door.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/effect-electricity.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/door-left.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/tutorial-jump.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/tutorial-spam.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/tutorial-move.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/projectile-slash.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/entities/tutorial-climb.js",
-		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/game/abilities/ability-shoot-extended.js"
+		"/C/Users/Jordan/Documents/GitHub/RoguelikePlatformer/lib/plusplus/entities/effect-electricity.js"
 	],
 	"find":
 	{
@@ -226,9 +230,18 @@
 	},
 	"find_state":
 	{
-		"case_sensitive": false,
+		"case_sensitive": true,
 		"find_history":
 		[
+			"primary",
+			"activate:",
+			"activate",
+			"trigger",
+			"panel",
+			"Panel",
+			"\");\n",
+			"inittype",
+			"type",
 			"wallJump",
 			"primary",
 			"pause",
@@ -347,16 +360,7 @@
 			"castStart",
 			"execute",
 			"castStart",
-			"activate.apply",
-			"activateTry",
-			"this.activateTry",
-			"activateSetup",
-			"execute",
-			"tap",
-			"input",
-			"abilities",
-			"jump",
-			"ability"
+			"activate.apply"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -364,6 +368,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"valve",
+			"Valve",
 			"ViewManager",
 			"spawnerTarget",
 			"fireOnce",
